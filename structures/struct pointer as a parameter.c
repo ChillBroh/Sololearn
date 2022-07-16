@@ -19,6 +19,7 @@ void update(student *s){
 void display(student s){
 	printf("%d %s",s.age,s.name);
 }
+
 int main(){
 	student s1;
 	update(&s1);
