@@ -13,5 +13,6 @@ int main(){
 		printf("devisor is 0. program exiting.");
 		exit(EXIT_FAILURE); //return value 1
 		//or we can use exit(4) to return value 4. if 4 returnd we know that there is a error
+	
 	}
 }
