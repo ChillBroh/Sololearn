@@ -4,6 +4,7 @@
 int main(){
 	char name[40];
 	
+	
 	printf("Enter yoour name :");
 	fgets(name,40,stdin);
 	fputs(name,stdout);
