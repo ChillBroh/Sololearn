@@ -16,7 +16,7 @@ public class Reverse_string {
             count--;
 
         }
-        for(int x : arr2)
+        for(char x : arr2)
             System.out.print(x);
     }
 }
