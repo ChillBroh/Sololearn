@@ -15,11 +15,11 @@ public class switch_ex {
             }
         }
 
-        String dayType = switch(day){
-            case 1, 2, 3, 4, 5 ->  "Working Day";
-            case 6,7 -> "Weekend";
-            default -> "Invalid day";
-        };
-        System.out.println(dayType);
+//        String dayType = switch(day){
+//            case 1, 2, 3, 4, 5 ->  "Working Day";
+//            case 6,7 -> "Weekend";
+//            default -> "Invalid day";
+//        };
+        //
     }
 }
